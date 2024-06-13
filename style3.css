@@ -1,0 +1,19 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    background-color: black;
+}
+p{
+    color: aliceblue;
+}
+h1{
+    color: aliceblue;
+}
+.merkuri-1{
+    height: 350px;
+}
+
+.merkuri{
+    height: 450px;
+}

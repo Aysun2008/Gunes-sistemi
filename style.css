@@ -2,19 +2,16 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-color: rgb(4, 5, 61);
+    background-color: rgb(0, 0, 0);
 }
 
 .all-code {
     width: 100%;
     height: 100%;
-
-
-
 }
 
 .logo {
-    height: 300px;
+    height: 450px;
 }
 
 .header {
@@ -22,7 +19,7 @@
     height: 400px;
     display: flex;
     justify-content: center;
-    color: aliceblue;
+    color: rgb(240, 246, 252);
 }
 
 .btn {
@@ -34,18 +31,28 @@
     color: aliceblue;
 
 }
-.all-planet{
+
+
+.merkuri {
+
+    height: 220px;
+
+}
+
+.all-planet-1 {
+    display: flex;
+
+}
+
+.all-planet2 {
     display: flex;
 }
-.all-planet .card-1 :hover{
-    transform: scale(1.1, 1.1);
+
+a {
+    color: rgb(5, 5, 5);
 }
-.all-planet .card-2 :hover{
-    transform: scale(1.1, 1.1);
+
+p {
+    color: white;
 }
-.all-planet .card-3 :hover{
-    transform: scale(1.1, 1.1);
-}
-.all-planet .card-4 :hover{
-    transform: scale(1.1, 1.1);
-}
+
